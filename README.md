@@ -19,8 +19,8 @@ https://github.com/parpera/parpera-code-challenges/blob/main/netcore-api.md
 1. Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 2. Install the .Net Core 3.1 Runtime, this can be done through the Visual Studio installer
 3. clone this project with `git clone https://github.com/JoshDubar/transaction-api.git`
-4. Open this project in Visual Studio
-5. Change the project next to the "play" button to `Transaction API`
+4. In Visual Studio, open the solution file for this project at `transaction-api/TransactionAPI/TransactionAPI.sln`
+5. Change the option to the left of and on the the "play" button to `Transaction API`
 6. press the "play" button to start the project
 7. (Optional) Install [DB Browser for SQlite](https://sqlitebrowser.org/dl/) and open the Transaction.db file from the project in order to manually interact with the Database
 
